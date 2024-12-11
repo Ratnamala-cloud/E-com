@@ -1,0 +1,71 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+ display: flex;
+ list-style: none;
+ justify-content: space-between;
+ font-size:larger;
+ font-weight: bold;
+}
+.nn{
+  text-decoration: none;
+}
+.navbar:hover{
+color: red;
+}
+.nn{
+  color: red;
+}
+.cc{
+  background-color: aqua;
+}
+#carouselExampleCaptions{
+  height: 100vh;
+  background-size: cover;
+}
+#main{
+  height: 80px;
+  width: 200px;
+  flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+.card1{
+  height: 80px;
+  width: 190px;
+  margin: 20px;
+}
+.card2{
+  height: 80px;
+  width: 190px;
+  margin: 10px;
+}
+.card3{
+  height: 100px;
+  width: 190px;
+  margin: 20px;
+  
+}
+.card4{
+  height: 80px;
+  width: 190px; 
+  margin: 20px;
+}
+.card5{
+  height: 80px;
+  width: 190px; 
+  margin: 20px;
+}
+.card6{
+  height: 80px;
+  width: 190px;  
+  margin: 20px;
+}
+
+
+
+
